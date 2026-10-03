@@ -1,0 +1,338 @@
+[
+  {
+    "day": 1,
+    "week": 1,
+    "title": "对象模型与跨语言迁移",
+    "file": "days/day01.md"
+  },
+  {
+    "day": 2,
+    "week": 1,
+    "title": "数字、字符串与运算符",
+    "file": "days/day02.md"
+  },
+  {
+    "day": 3,
+    "week": 1,
+    "title": "容器、哈希与排序",
+    "file": "days/day03.md"
+  },
+  {
+    "day": 4,
+    "week": 1,
+    "title": "Python 控制流与推导式",
+    "file": "days/day04.md"
+  },
+  {
+    "day": 5,
+    "week": 1,
+    "title": "函数签名与参数传递",
+    "file": "days/day05.md"
+  },
+  {
+    "day": 6,
+    "week": 1,
+    "title": "异常、文件与最小测试",
+    "file": "days/day06.md"
+  },
+  {
+    "day": 7,
+    "week": 1,
+    "title": "第一周验收：日志分析器",
+    "file": "days/day07.md"
+  },
+  {
+    "day": 8,
+    "week": 2,
+    "title": "作用域与闭包",
+    "file": "days/day08.md"
+  },
+  {
+    "day": 9,
+    "week": 2,
+    "title": "装饰器与可测试重试",
+    "file": "days/day09.md"
+  },
+  {
+    "day": 10,
+    "week": 2,
+    "title": "迭代器与生成器",
+    "file": "days/day10.md"
+  },
+  {
+    "day": 11,
+    "week": 2,
+    "title": "上下文管理器",
+    "file": "days/day11.md"
+  },
+  {
+    "day": 12,
+    "week": 2,
+    "title": "模块、包与导入",
+    "file": "days/day12.md"
+  },
+  {
+    "day": 13,
+    "week": 2,
+    "title": "类型标注与现代泛型",
+    "file": "days/day13.md"
+  },
+  {
+    "day": 14,
+    "week": 2,
+    "title": "第二周验收：流式管道",
+    "file": "days/day14.md"
+  },
+  {
+    "day": 15,
+    "week": 3,
+    "title": "类、dataclass 与对象状态",
+    "file": "days/day15.md"
+  },
+  {
+    "day": 16,
+    "week": 3,
+    "title": "数据模型与魔术方法",
+    "file": "days/day16.md"
+  },
+  {
+    "day": 17,
+    "week": 3,
+    "title": "继承、组合与方法绑定",
+    "file": "days/day17.md"
+  },
+  {
+    "day": 18,
+    "week": 3,
+    "title": "property 与描述符",
+    "file": "days/day18.md"
+  },
+  {
+    "day": 19,
+    "week": 3,
+    "title": "相等、哈希与拷贝",
+    "file": "days/day19.md"
+  },
+  {
+    "day": 20,
+    "week": 3,
+    "title": "内存与对象生命周期",
+    "file": "days/day20.md"
+  },
+  {
+    "day": 21,
+    "week": 3,
+    "title": "第三周验收：领域对象",
+    "file": "days/day21.md"
+  },
+  {
+    "day": 22,
+    "week": 4,
+    "title": "collections 与队列",
+    "file": "days/day22.md"
+  },
+  {
+    "day": 23,
+    "week": 4,
+    "title": "itertools 与函数工具",
+    "file": "days/day23.md"
+  },
+  {
+    "day": 24,
+    "week": 4,
+    "title": "pathlib、JSON、CSV 与正则",
+    "file": "days/day24.md"
+  },
+  {
+    "day": 25,
+    "week": 4,
+    "title": "时间、时区与标准库",
+    "file": "days/day25.md"
+  },
+  {
+    "day": 26,
+    "week": 4,
+    "title": "命令行、日志与子进程",
+    "file": "days/day26.md"
+  },
+  {
+    "day": 27,
+    "week": 4,
+    "title": "SQLite 与事务",
+    "file": "days/day27.md"
+  },
+  {
+    "day": 28,
+    "week": 4,
+    "title": "第四周验收：可用 CLI",
+    "file": "days/day28.md"
+  },
+  {
+    "day": 29,
+    "week": 5,
+    "title": "哈希表与双指针",
+    "file": "days/day29.md"
+  },
+  {
+    "day": 30,
+    "week": 5,
+    "title": "滑动窗口",
+    "file": "days/day30.md"
+  },
+  {
+    "day": 31,
+    "week": 5,
+    "title": "栈、队列与 BFS",
+    "file": "days/day31.md"
+  },
+  {
+    "day": 32,
+    "week": 5,
+    "title": "二分、堆与 Top K",
+    "file": "days/day32.md"
+  },
+  {
+    "day": 33,
+    "week": 5,
+    "title": "DFS 与回溯",
+    "file": "days/day33.md"
+  },
+  {
+    "day": 34,
+    "week": 5,
+    "title": "动态规划",
+    "file": "days/day34.md"
+  },
+  {
+    "day": 35,
+    "week": 5,
+    "title": "第五周验收：算法模拟面试",
+    "file": "days/day35.md"
+  },
+  {
+    "day": 36,
+    "week": 6,
+    "title": "线程、进程与 GIL",
+    "file": "days/day36.md"
+  },
+  {
+    "day": 37,
+    "week": 6,
+    "title": "asyncio 入门与 Node.js 对照",
+    "file": "days/day37.md"
+  },
+  {
+    "day": 38,
+    "week": 6,
+    "title": "TaskGroup、超时与取消",
+    "file": "days/day38.md"
+  },
+  {
+    "day": 39,
+    "week": 6,
+    "title": "限流、背压与异步协议",
+    "file": "days/day39.md"
+  },
+  {
+    "day": 40,
+    "week": 6,
+    "title": "共享状态与锁",
+    "file": "days/day40.md"
+  },
+  {
+    "day": 41,
+    "week": 6,
+    "title": "进程池与批量处理",
+    "file": "days/day41.md"
+  },
+  {
+    "day": 42,
+    "week": 6,
+    "title": "第六周验收：异步批处理器",
+    "file": "days/day42.md"
+  },
+  {
+    "day": 43,
+    "week": 7,
+    "title": "测试、fixture 与 mock",
+    "file": "days/day43.md"
+  },
+  {
+    "day": 44,
+    "week": 7,
+    "title": "工程结构、依赖与打包",
+    "file": "days/day44.md"
+  },
+  {
+    "day": 45,
+    "week": 7,
+    "title": "类型边界与可维护接口",
+    "file": "days/day45.md"
+  },
+  {
+    "day": 46,
+    "week": 7,
+    "title": "性能分析与内存",
+    "file": "days/day46.md"
+  },
+  {
+    "day": 47,
+    "week": 7,
+    "title": "HTTP 服务边界与可靠性",
+    "file": "days/day47.md"
+  },
+  {
+    "day": 48,
+    "week": 7,
+    "title": "高级机制与版本差异",
+    "file": "days/day48.md"
+  },
+  {
+    "day": 49,
+    "week": 7,
+    "title": "第七周验收：代码评审",
+    "file": "days/day49.md"
+  },
+  {
+    "day": 50,
+    "week": 8,
+    "title": "毕业项目一：范围与契约",
+    "file": "days/day50.md"
+  },
+  {
+    "day": 51,
+    "week": 8,
+    "title": "毕业项目二：核心处理",
+    "file": "days/day51.md"
+  },
+  {
+    "day": 52,
+    "week": 8,
+    "title": "毕业项目三：持久化与 CLI",
+    "file": "days/day52.md"
+  },
+  {
+    "day": 53,
+    "week": 8,
+    "title": "毕业项目四：质量与交付",
+    "file": "days/day53.md"
+  },
+  {
+    "day": 54,
+    "week": 8,
+    "title": "模拟面试一：语言核心",
+    "file": "days/day54.md"
+  },
+  {
+    "day": 55,
+    "week": 8,
+    "title": "模拟面试二：并发与算法",
+    "file": "days/day55.md"
+  },
+  {
+    "day": 56,
+    "week": 8,
+    "title": "最终验收与后续路线",
+    "file": "days/day56.md"
+  }
+]
