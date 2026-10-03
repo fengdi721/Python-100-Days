@@ -11,6 +11,8 @@
 3. 完成后更新 [进度表](PROGRESS.md)，并在 [错题本](MISTAKES.md) 记录原因。
 4. 全部题目见 [56 天目录](DAILY_INDEX.md)，语法查漏见 [知识覆盖表](KNOWLEDGE_MAP.md)，面试复盘见 [回答要点](INTERVIEW_REVIEW.md)，跨语言对照见 [PHP/Node迁移表](PHP_NODE_TO_PYTHON.md)。
 
+每日补充安排保存在 [`daily-briefs/`](daily-briefs/)；它用于当天热身和复习，不代表题目已完成。`local-study/` 已纳入你的 [GitHub fork](https://github.com/fengdi721/Python-100-Days) 的 `master` 分支；原作者仓库保留为 `upstream`。每天 09:00（Europe/Paris）的计划更新会检查进度并写一份简短安排，只有产生实际内容变化才提交并推送，不创建空提交。
+
 本学习包位于教程的 `local-study/`，是为你编写的补充材料，不属于上游作者教程。上游原文保留；学习时按主题选读，不需要顺序读完100天。
 
 ## 每天怎么学
